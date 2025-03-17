@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1vUQT5LLtUnukW4d7HD2BfCf6PRGullEa
 """
 
-import pandas as pd
+import pandas as pd 
 import matplotlib.pyplot as plt
 import numpy as np
 from sklearn.model_selection import train_test_split
